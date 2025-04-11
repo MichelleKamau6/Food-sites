@@ -1,42 +1,34 @@
 #Food Sites 🍽️
 A clean and responsive website showcasing delicious food offerings with vibrant images and names, built using only HTML and CSS.
 
-🌐 Live Demo
-Check it out here: https://michellekamau6.github.io/Food-sites/
+Live Demo
+{https://michellekamau6.github.io/Food-sites} 
 
-✨ Features
-Visual display of various foods with high-quality images
+Features
+1.Visual display of various foods with high-quality images
 
-Simple and intuitive layout
+2.Simple and intuitive layout
 
-Fully responsive design for all screen sizes
+3.Fully responsive design for all screen sizes
 
-Built with semantic HTML and modern CSS
+4.Built with semantic HTML and modern CSS
 
-🚀 Getting Started
-No installation needed. Just open the index.html file in your browser:
+ Getting Started
+1.No installation needed. Just open the index.html file in your browser:
 
-bash
-Copy
-Edit
-1. Clone the repo
-2. Open index.html in your favorite browser
-Or view the live version using the link above.
+ Built With
+1.HTML5
+2.CSS3
 
-🛠️ Built With
-HTML5
+ Future Improvements
+1.Add more food items and categories
 
-CSS3
+2.Include hover animations or transitions
 
-📌 Future Improvements
-Add more food items and categories
+3.Mobile optimization enhancements
 
-Include hover animations or transitions
+4.Add contact form or order button
 
-Mobile optimization enhancements
-
-Add contact form or order button
-
-👩‍💻 Author
+ Author
 Michelle Kamau
 GitHub Profile
