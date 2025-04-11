@@ -1,4 +1,4 @@
-#Food Sites 🍽️
+Food Sites 🍽️
 A clean and responsive website showcasing delicious food offerings with vibrant images and names, built using only HTML and CSS.
 
 Live Demo
